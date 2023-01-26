@@ -1,0 +1,27 @@
+.mainInpSec {
+  height: 80vh;
+  padding: 10%;
+  .mainInp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    .inpStyle {
+      margin: 10px;
+      .onlyStyle {
+        width: 300px;
+        height: 50px;
+        border-radius: 15px;
+        border: 1px solid grey;
+      }
+    }
+    .inpBtn{
+        width: 140px;
+        height: 50px;
+        border-radius: 30px;
+        border: 1px solid grey;
+        font-size: 15px;
+
+    }
+  }
+}

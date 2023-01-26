@@ -1,0 +1,12 @@
+.mainFoo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0,35,71,0.980392);
+    height: 10vh;
+    .fooWord{
+        p{
+            color: white;
+        }
+    }
+}
